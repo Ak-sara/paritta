@@ -1,0 +1,47 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="2.5dp"
+    android:layout_marginBottom="2.5dp"
+    android:maxHeight="100dp"
+    android:minHeight="100dp"
+    tools:context="me.heriawan.myparitta.ContentFragment">
+
+    <ImageView
+        android:id="@+id/contimg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxHeight="100dp"
+        android:minHeight="100dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/a1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/contman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="摩 訶 般 若 波 羅 蜜 多 心 經"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/contpin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MO HE PO JE PHO LUO MI TUO SIN CING"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

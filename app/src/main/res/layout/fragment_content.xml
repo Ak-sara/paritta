@@ -1,0 +1,19 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/papyr"
+    android:alpha="0.8"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="me.heriawan.myparitta.ContentFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/contentitem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        tools:itemCount="20"
+        tools:spanCount="1"
+        tools:listitem="@layout/item_content"/>
+
+</RelativeLayout>

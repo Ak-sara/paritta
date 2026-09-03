@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a1_man">心 好 命 又 好\t富 貴 直 到 老\n
+    命 好 心 不 好\t福 變 為 禍 兆\n
+    心 好 命 不 好\t禍 轉 為 福 報\n
+    心 命 俱 不 好\t遭 殃 且 貧 夭 \n
+    心 可 挽 乎 命\t最 要 存 仁 道\n
+    命 實 造 於 心\t吉 凶 為 人 召\n
+    信 命 不 修 心\t陰 陽 恐 虛 矯\n
+    修 心 一 聽 命\t天 地 自 相 保</string>
+    <string name="a1_pin">Sin Hao Ming You Hao\tFu Kuei Ce Tao Lao\n
+    Ming Hao Sin Pu Hao\tFu Pien Wei Huo Cao\n
+    Sin Hao Ming Pu Hao\tHuo Cuan Wei Fu Pao\n
+    Sin Ming Cii Pu Hao\tCao Yang Chie Phin Yao\n
+    Sin Khe Wan Hu Ming\tCui Yao Chun Ren Tao\n
+    Ming She Cao Yii Sin\tCi Siong Wei Ren Cao\n
+    Sin Ming Pu Siu Sin\tYin Yang Khong Sii Chiao\n
+    Siu Sin Yi Thing Ming\tThien Ti Ce Siang Pao</string>
+    <string name="a1_id">Hati baik nasib baik, kekayaan dan kemuliaan akan terus mengikuti sampai akhir hayat\n
+    Nasib baik hati tidak baik, rejeki berubah menjadi bencana\n
+    Hati baik nasib tidak baik, bencana berubah menjadi rejeki\n
+    Hati dan nasib tidak baik, segala sesuatu berubah menjadi miskin dan tidak baik\n
+    Hati bisa mempengaruhi nasib, yang terpenting adalah senantiasa mempunyai hati welas asih dan kebenaran\n
+    Nasib asalnya dari hati, kebaikan dan keburukan diciptakan oleh manusia sendiri\n
+    Percaya pada nasib tetapi tidak membina hati, segala yang diperoleh hanya sekedar polesan\n
+    Membina hati dan percaya pada nasib, langit dan bumi akan memberikan bantuan</string>
+
+    <string name="a2_man">天地自然\t穢氣消散\t洞中玄虛\n
+    恍朗太玄\t八方威神\t使我自然\n
+    靈寶符命\t普告九天\t乾儸怛那\n
+    洞剛太玄\t斬妖縛邪\t殺鬼萬千\n
+    中山神咒\t原始御文\t持誦一遍\n
+    卻鬼延年\t按行五嶽\t八海知聞\n
+    魔王束手\t侍衛我軒\t凶穢消散\n
+    道氣常存\t急急如律令</string>
+    <string name="a2_pin">Thien Ti Ce Jan\tHuei Chi Siao San\tTong Cong Süen Sü\n
+    Huang Lang Thai Süen\tPa Fang Wei Shen\tShe Wo Ce Jan\n
+    Ling Pao Fu Ming\tPhu Kao Ciou Thien\tChien Luo Ta Na\n
+    Tong Kang Thai Süen\tCan Yao Fu Sie\tSha Kuei Wan Chien\n
+    Cong Shan Shen Cou\tYüen She Yü Wen\tChe Song Yi Pien\n
+    Chüe Kuei Yen Nien\tAn Sing Wu Yue\tPa Hai Ce Wen\n
+    Mo Wang Shu Shou\tShe Wei Wo Süen\tSiong Hui Siao San\n
+    Tao Chi Chang Chun\tCi Ci Ju Lü Ling</string>
+
+    <string name="a3_1man">飲 水 思 源</string>
+    <string name="a3_2man">尊 師 重 道</string>
+    <string name="a3_3man">承 上 啟 下</string>
+    <string name="a3_4man">敬 老 尊 賢</string>
+    <string name="a3_5man">謹 守 佛 規</string>
+    <string name="a3_6man">慎 終 追 遠</string>
+    <string name="a3_1pin">Yin Shuei Se Yüen</string>
+    <string name="a3_2pin">Cun She Cong Tao</string>
+    <string name="a3_3pin">Cheng Shang Chi Sia</string>
+    <string name="a3_4pin">Cing Lao Cun Sien</string>
+    <string name="a3_5pin">Cin Shou Fo Kuei</string>
+    <string name="a3_6pin">Shen Cong Cuei Yüen</string>
+    <string name="a3_1id">Minum Air Ingat Sumber</string>
+    <string name="a3_2id">Menghormati Guru Mengutamakan Tao</string>
+    <string name="a3_3id">Menjunjung Atasan Mengayomi Bawahan</string>
+    <string name="a3_4id">Menghormati Orang yang Lebih Tua dan Bijaksana</string>
+    <string name="a3_5id">Mentaati Tata Krama Buddha</string>
+    <string name="a3_6id">Mengenang Jasa Leluhur</string>
+
+    <string name="a4_man">敬天地 禮神明 愛國忠事 敦品崇禮\n
+    孝父母 重師尊 信朋友 和鄉鄰\n
+    改惡向善 講明五倫八德\n
+    闡發五教聖人之奧旨\n
+    恪遵四維綱常之古禮 洗心滌慮\n
+    借假修真 恢復本性之自然\n
+    啟發良知良能之至善 己立立人\n
+    己達達人 挽世界為清平\n
+    化人心為良善 冀世界為大同。</string>
+    <string name="a4_pin">Cing Thien Ti Li Shen Ming Ai Kuo Cong She Tun Phin Chong Li\n
+    Siao Fu Mu Cong She Cun Sin Phen You He Siang Lin\n
+    Kai E Siang Shan Ciang Ming Wu Lun Pa Te\n
+    Chan Fa Wu Ciao Sheng Jen Ce Ao Ce\n
+    Khe Cun Se Wei Kang Chang Ce Ku Li Si Sin Ti Lü\n
+    Cie Cia Siou Cen Huei Fu Pen Sing Ce Ce Jan\n
+    Chi Fa Liang Ce Liang Neng Ce Ce Shan Ci Li Li Jen\n
+    Ci Ta Ta Jen Wan She Cie Wei Ching Phing\n
+    Hua Jen Sin Wei Liang Shan Ci She Cie Wei Ta Thong</string>
+    <string name="a4_id">Menghormati langit dan bumi, melaksanakan penghormatan pada para dewa, setia kepada pekerjaan dan mencintai negara, memupuk budi pekerti yang luhur dan menjunjung tinggi tata susila,\n
+    Berbakti pada orangtua, menghormati guru, saling percaya di antara teman, akur sesama tetangga,\n
+    Merubah kebiasaan buruk menjadi kebaikan, menguraikan ajaran-ajaran penghidupan yang berdasarkan “Lima Relasi Kemanusiaan” dan ‘Delapan Kebajikan”,\n
+    Mengembangkan tujuan dari ajaran yang disebarkan oleh para nabi,\n
+    Taat pada tata kekeluargaan “Empat Kemurnian”, “Tiga Panutan” dan “Lima Sifat Luhur”, membersihkan hati dari kerisauan,\n
+    Melakukan pembinaan jiwa sejati dengan mempergunakan badan kasar, agar jiwa sejati pulih kembali kepada roman asal semula.\n
+    Mengembangkan jiwa sejati / hati nurani agar mencapai kebajikan tertinggi,menegakkan diri sehingga dirinya cukup tegak untuk menegakkan orang lain,\n
+    Menyempurnakan diri sehingga dirinya cukup sempurna untuk menyempurnakan orang lain, memperbaiki dan mengubah dunia menjadi aman dan damai,\n
+    Mengubah hati sesama manusia menjadi baik dan suci, dengan harapan dunia akan menjadi sama rasa dan sama rata.</string>
+
+    <string name="a6_man">佛 說 彌 勒 救 苦 經 彌 勒 下 世 不 非 輕\n
+領 寶 齊 魯 靈 山 地 拈 花 印 證 考 三 乘\n
+落 在 中 原 三 星 地 大 證 四 川 王 桃 心\n
+天 真 收 圓 掛 聖 號 等 待 時 至 點 神 兵\n
+雲 雷 振 開 戊 己 土 天 下 神 鬼 不 安 寧\n
+親 在 仁 天 中 華 母 九 蓮 聖 教 歸 上 乘\n
+天 花 老 中 垂 玉 線 收 圓 顯 化 在 古 東\n
+南 北 兩 極 連 宗 緒 混 元 古 冊 在 中 央\n
+老 中 降 下 通 天 竅 無 影 山 前 對 合 同\n
+嬰 兒 要 想 歸 家 去 持 念 當 來 彌 勒 經\n
+用 心 持 念 佛 來 救 朵 朵 金 蓮 去 超 生\n
+識 得 西 來 白 陽 子 鄉 兒 點 鐵 化 成 金\n
+每 日 志 心 常 持 念 三 災 八 難 不 來 侵\n
+要 想 成 佛 勤 禮 拜 常 持 聰 明 智 慧 心\n
+休 聽 邪 人 胡 說 話 牢 栓 意 馬 念 無 生\n
+老 中 降 下 真 天 咒 用 心 持 念 有 神 通\n
+滿 天 星 斗 都 下 世 五 方 列 仙 下 天 宮\n
+各 方 城 隍 來 對 號 報 事 靈 童 察 的 清\n
+三 官 慈 悲 大 帝 主 赦 罪 三 曹 救 眾 生\n
+救 苦 天 尊 來 救 世 親 點 文 部 揭 地 神\n
+八 大 金 剛 來 護 法 四 位 菩 薩 救 眾 生\n
+緊 領 三 十 六 員 將 五 百 靈 官 緊 隨 跟\n
+扶 助 彌 勒 成 大 道 保 佑 鄉 兒 得 安 寧\n
+北 方 真 武 為 將 帥 青 臉 紅 髮 顯 神 通\n
+扯 起 皂 旗 遮 日 月 頭 頂 森 羅 七 寶 星\n
+威 鎮 北 方 為 帥 首 速 請 諸 惡 掛 甲 兵\n
+搭 救 原 人 鄉 兒 女 火 光 落 地 化 為 塵\n
+四 海 龍 王 來 助 道 各 駕 祥 雲 去 騰 空\n
+十 方 天 兵 護 佛 駕 保 佑 彌 勒 去 成 功\n
+紅 陽 了 道 歸 家 去 轉 到 三 陽 彌 勒 尊\n
+無 皇 敕 令 記 下 生 收 伏 南 閻 歸 正 宗\n
+來 往 造 下 真 言 咒 傳 下 當 來 大 藏 經\n
+嬰 兒 姹 女 常 持 念 邪 神 不 敢 來 近 身\n
+持 念 一 遍 神 通 大 持 念 兩 遍 得 超 生\n
+持 念 三 遍 神 鬼 怕 魍 魎 邪 魔 化 為 塵\n
+修 持 劫 內 尋 路 徑 念 起 真 言 歸 佛 令\n
+南 無 天 元 太 保\n 阿 彌 陀 佛</string>
+    <string name="a6_pin">Fo Shuo Mi Le Ciou Khu Cing Mi Le Sia She Pu Fei Ching\n
+Ling Pao Chi Lu Ling Shan Ti Nien Hua Ying Ceng Khao San Sheng\n
+Luo Cai Cong Yüen San Sing Ti Ta Ceng Se Chuan Wang Thao Sin\n
+Thien Cen Shou Yüen Kua Sheng Hao Teng Tai She Ce Tien Shen Ping\n
+Yün Lei Cen Khai Wu Ci Thu Thien Sia Shen Kuei Pu An Ning\n
+Chin Cai Jen Thien Cong Hua Mu Ciou Lien Sheng Ciao Kuei Shang Shen\n
+Thien Hua Lao Mu Chuei Yü Sien Shou Yüen Sien Hua Cai Ku Tong\n
+Nan Pei Liang Ci Lien Cong Sü Huen Yüen Ku Che Cai Cong Yang\n
+Lao Mu Ciang Sia Thong Thien Chiao Wu Ying Shan Chien Tuei He Thong\n
+Ying Erl Yao Siang Kuei Cia Chi Che Nien Tang Lai Mi Le Cing\n
+Yong Sin Che Nien Fo Lai Ciou Tuo Tuo Cin Lien Chü Chao Sheng\n
+She Te Si Lai Pai Yang Ce Siang Erl Tien Thie Hua Cheng Cin\n
+Mei Je Ce Sin Chang Che Nien San Cai Pa Nan Pu Lai Ching\n
+Yao Siang Cheng Fo Chin Li Pai Chang Che Chong Ming Ce Huei Sin\n
+Siou Thing Sie Jen Hu Shuo Hua Lao Shuan Yi Ma Nien Wu Sheng\n
+Lao Mu Ciang Sia Cen Thien Cou Yong Sin Che Nien You Shen Thong\n
+Man Thien Sing Tou Tou Sia She Wu Fang Lie Sien Sia Thien Kong\n
+Ke Fang Cheng Huang Lai Tuei Hao Pao She Ling Thong Cha Te Ching\n
+San Kuan Che Pei Ta Ti Cu She Cuei San Chao Ciou Cong Sheng\n
+Ciou Khu Thien Cun Lai Ciou She Chin Tien Wen Pu Cie Ti Shen\n
+Pa Ta Cin Kang Lai Hu Fa Se Wei Phu Sa Ciou Cong Sheng\n
+Cing Ling San She Liou Yüen Ciang Wu Pai Ling Kuan Cin Suei Ken\n
+Fu Cu Mi Le Cheng Ta Tao Pao You Siang Erl Te An Ning\n
+Pei Fang Cen Wu Wei Ciang Shuai Ching Lien Hong Fa Sien Shen Thong\n
+Ce Chi Cao Chi Ce Je Yue Thou Ting Sen Luo Chi Pao Sing\n
+Wei Cen Pei Fang Wei Shuai Shou Su Ching Cu Erl Kua Cia Ping\n
+Ta Ciou Yüen Jen Siang Erl Nü Huo Kuang Luo Ti Hua Wei Chen\n
+Se Hai Long Wang Lai Cu Tao Ke Cia Siang Yün Chü Theng Khong\n
+She Fang Thien Ping Hu Fo Cia Pao You Mi Le Chü Cheng Kong\n
+Hong Yang Liao Tao Kuei Cia Chi Cuan Tao San Yang Mi Le Cun\n
+Wu Huang Che Ling Ci Sia Sheng Shou Fu Nan Yen Kuei Cen Cong\n
+Lai Wang Cao Sia Cen Yen Cou Chuan Sia Tang Lai Ta Cang Cing\n
+Ying Erl Cha Nü Chang Che Nien Sie Shen Pu Kan Lai Cin Shen\n
+Che Nien Yi Pien Shen Thong Ta Che Nien Liang Phien Te Chao Sheng\n
+Che Nien San Pien Shen Kuei Pha Wang Liang Sie Mo Hua Wei Chen\n
+Siou Che Cie Nei Sün Lu Cing Nien Chi Cen Yen Kuei Fo Ling\n
+Nan Wu Thien Yüen Thai Pao\n A Mi Thuo Fo</string>
+
+    <string name="a10_man">天命之謂性;率性之謂道;修道之謂教。道\n
+    也者，不可須臾離也;可離，非道也。是故\n
+    君子戒慎乎其所不睹，恐懼乎其所不聞。莫\n
+    見乎隱，莫顯乎微。故君子慎其獨也。喜怒\n
+    哀樂之未發，謂之中。發而皆中節，謂之和\n
+    。中也者，天下之大本也。和也者，天下之\n
+    達道也。致中和，天地位焉，萬物育焉。
+    </string>
+    <string name="a10_pin">Thien Ming Ce Wei Sing; Suai Sing Ce Wei Tao; Siou Tao Ce Wei Ciao. Tao\n
+    Ye Ce, Pu Khe Sü Yü Li Ye;Khe Li, Fei Tao Ye. She Ku\n
+    Cün Ce Cie Shen Hu Chi Suo Pu Tu, Khong Cü Hu Chi Suo Pu Wen. Mo\n
+    Cien Hu Yin, Mo Sien Hu Wei. Ku Cün Ce Shen Chi Tu Ye. Si Nu\n
+    Ai Le Ce Wei Fa, Wei Ce Cong. Fa Erl Cie Cong, Cie Wei Ce He\n
+    .Cong Ye Ce, Thien Sia Ce Ta Pen Ye. He Ye Ce, Thien Sia Ce\n
+    Ta Tao Ye. Ce Cong He, Thien Ti Wei Yen, Wan Wu Yü Yen.</string>
+    <string name="a10_id">Roh pemberian Tuhan kepada manusia disebut Firman Tuhan. Bila kita melakukan segala hal berdasarkan kebenaran Tuhan dan hati nurani disebut Tao. Membina diri secara terus menerus berdasarkan lima sifat mulia disebut pendidikan / ajaran.\n
+    Manusia sekejappun tidak bisa berpisah dengan Tao, bila bisa ditinggalkan berarti bukan Tao sejati.\n
+    Maka orang bijak sangat berhati-hati pada saat tidak terlihat orang lain, dan terdengar oleh orang lain, agar tidak melakukan kesalahan,\n
+    karena di tempat yang tidak terlihat justru malah menampakkan baik, buruk, benar dan salah.\n
+    Sebelum timbul perasaan senang, marah, sedih dan bahagia disebut kondisi jiwa sejati. Setelah perasaan- perasaan itu muncul tetapi tidak berlebihan disebut Harmonis.\n
+    Maka dikatakan jiwa sejati adalah sumber atau asal usul dari alam semesta dengan seluruh isinya. Sedangkan harmonis adalah jalan yang harus dilalui setiap orang untuk mencapai kondisi yang sesuai jiwa sejati,\n
+    jadi semua harus berjalan sesuai dengan aturannya, sehingga semua kehidupan dan seisi alam semesta bisa tumbuh dan berkembang sebagaimana mestinya.</string>
+
+    <string name="a12_man">天地重孝孝當先\t一個孝字全家安\n
+    孝順能生孝順子\t孝順子弟必明賢\n
+    孝是人道第一步\t孝子謝世即為仙\n
+    自古忠臣多孝子\t君選賢臣舉孝廉 \n
+    盡心竭力孝父母\t孝道不獨講吃穿\n
+    孝道貴在心中孝\t孝親親責莫回言\n
+    惜乎人間不識孝\t回心復孝天理還\n
+    諸事不順因不孝\t怎知孝能感動天\n
+    孝道貴順無他妙\t孝順不分女共男\n
+    褔祿皆由孝字得\t天將孝子另眼觀\n
+    人人都可孝父母\t孝敬父母如敬天\n
+    孝子口裡有孝語\t孝婦面上帶孝顏\n
+    公婆上邊能盡孝\t又落孝來又落賢\n
+    女得淑名先學孝\t三從四德孝在前\n
+    孝在鄉黨人欽敬\t孝在家中大小歡\n
+    孝子逢人就勸孝\t孝化風俗人品端\n
+    生前孝子聲價貴\t死後孝子萬古傳\n
+    處世惟有孝力大\t孝能感動地合天\n
+    孝經孝文把孝勸\t孝父孝母孝袓先\n
+    父母生子原為孝\t能孝就是好兒男\n
+    為人能把父母孝\t下輩孝子照樣還\n
+    堂上父母不知孝\t不孝受窮莫怨天\n
+    孝子面帶太和象\t入孝出悌自然安\n
+    親在應孝不知孝\t親死知孝後悔難\n
+    孝在心孝不在貌\t孝貴實行不在言\n
+    孝子齊家全家樂\t孝子治國萬民安\n
+    五穀豐登皆因孝\t一孝即是太平年\n
+    能孝不在貧和富\t善體親心是孝男\n
+    兄弟和睦即為孝\t忍讓二字把孝全\n
+    孝從難處見真孝\t孝容滿面承親顏\n
+    父母雙全正宜孝\t孝思鰥寡親影單\n
+    趕緊孝來光陰快\t親由我孝壽由天\n
+    生前能孝方為孝\t死後盡孝徒枉然\n
+    孝順傳家孝是寶\t孝性溫和孝味甘\n
+    羊羔跪乳尚知孝\t烏鴉反哺孝親顏\n
+    為人若是不知孝\t不如禽獸實可憐\n
+    百行萬善孝為首\t當知孝字是根源\n
+    念佛行善也是孝\t孝仗佛力超九天\n
+    大哉孝乎大哉孝\t孝矣無窮孝無邊\n
+    此篇句句不離孝\t離孝人倫顛倒顛\n
+    念得十遍千個孝\t念得百遍萬孝全\n
+    千遍萬遍常常念\t消災免難百孝篇\n
+    </string>
+    <string name="a12_pin">Thien Ti Cong Siao Siao Tang Sien\tYi Ke Siao Ce Chüen Cia An\n
+    Siao Shun Neng Sheng Siao Shun Ce\tSiao Shun Ce Ti Pi Ming Sien\n
+    Siao She Jen Tao Ti Yi Pu\tSiao Ce Sie She Ci Wei Sien\n
+    Ce Ku Cong Chen Tuo Siao Ce\tCün Süen Sien Chen Cü Siao Lien\n
+    Cin Sin Cie Li Siao Fu Mu\tSiao Tao Pu Tu Ciang Che Chuan\n
+    Siao Tao Kuei Cai Sin Cong Siao\tSiao Chin Chin Ce Mo Huei Yen\n
+    Si Hu Jen Cien Pu She Siao\tHuei Sin Fu Siao Thien Li Huan\n
+    Cu She Pu Shun Yin Pu Siao\tCen Ce Siao Neng Kan Tong Thien\n
+    Siao Tao Kuei Shun Wu Tha Miao\tSiao Shun Pu Fen Nü Kong Nan\n
+    Fu Lu Cie You Siao Ce Te\tThien Ciang Siao Ce Ling Yen Kuan\n
+    Jen Jen Tou Khe Siao Fu Mu\tSiao Cing Fu Mu Ju Cing Thien\n
+    Siao Ce Khou Li You Siao Yü\tSiao Fu Mien Shang Tai Siao Yen\n
+    Kong Pho Shang Pien Neng Cin Siao\tYou Luo Siao Lai You Luo Sien\n
+    Nü Te Shu Ming Sien Süe Siao\tSan Chong Se Te Siao Cai Chien\n
+    Siao Cai Siang Tang Jen Chin Cing\tSiao Cai Cia Cong Ta Siao Huan\n
+    Siao Ce Fong Jen Ciou Chüen Siao\tSiao Hua Fong Su Jen Phin Tuan\n
+    Sheng Chien Siao Ce Sheng Cia Kuei\tSe Hou Siao Ce Wan Ku Chuan\n
+    Chu She Wei You Siao Li Ta\tSiao Neng Kan Tong Ti He Thien\n
+    Siao Cing Siao Wen Pa Siao Chien\tSiao Fu Siao Mu Siao Cu Sien\n
+    Fu Mu Sheng Ce Yüen Wei Siao\tNeng Siao Ciou She Hao Erl Nan\n
+    Wei Jen Neng Pa Fu Mu Siao\tSia Pei Siao Ce Cao Yang Huan\n
+    Thang Shang Fu Mu Pu Ce Siao\tPu Siao Shou Chüong Mo Yüen Thien\n
+    Siao Ce Mien Tai Thai He Siang\tJu Siao Chu Thi Ce Jan An\n
+    Chin Cai Ying Siao Pu Ce Siao\tChin Se Ce Siao Hou Huei Nan\n
+    Siao Cai Sin Siao Pu Cai Mao\tSiao Kuei She Sing Pu Cai Yen\n
+    Siao Ce Chi Cia Chüen Cia Le\tSiao Ce Ce Kuo Wan Min An\n
+    Wu Ku Fong Teng Cie Yin Siao\tYi Siao Ci She Thai Phing Nien\n
+    Neng Siao Pu Cai Phin He Fu\tShan Thi Chin Sin She Siao Nan\n
+    Siong Ti He Mu Ci Wei Siao\tJen Jang Erl Ce Pa Siao Chüen\n
+    Siao Chong Nan Chu Cien Cen Siao\tSiao Jong Man Mien Cheng Chin Yen\n
+    Fu Mu Shuang Chüen Ceng Yi Siao\tSiao Se Kuan Kua Chin Ying Tan\n
+    Kan Cin Siao Lai Kuang Yin Khuai\tChin You Wo Siao Shou You Thien\n
+    Sheng Chien Neng Siao Fang Wei Siao\tSe Hou Cin Siao Thu Wang Jan\n
+    Siao Shun Chuan Cia Siao She Pao\tSiao Sing Wen He Siao Wei Kan\n
+    Yang Kao Kuei Ju Shang Ce Siao\tWu Ya Fan Pu Siao Chin Yen\n
+    Wei Jen Juo She Pu Ce Siao\tPu Ju Chin Shou She Khe Lien\n
+    Pai Heng Wan Shan Siao Wei Shou\tTang Ce Siao Ce She Ken Yüen\n
+    Nien Fo Sing Shan Ye She Siao\tSiao Cang Fo Li Chao Ciou Thien\n
+    Ta Cai Siao Hu Ta Cai Siao\tSiao Yi Wu Chüong Siao Wu Pien\n
+    Che Phien Cü Cü Pu Li Siao\tLi Siao Jen Lun Tien Tao Tien\n
+    Nien Te She Pien Chien Ke Siao\tNien Te Pai Pien Wan Siao Chüen\n
+    Chien Pien Wan Pien Chang Chang Nien\tSiao Cai Mien Nan Pai Siao Phien</string>
+    <string name="a12_id">Dunia mementingkan bakti, bakti harus diutamakan, dengan adanya bakti seisi keluarga akan selalu mendapatkan ketentraman dan keselamatan.\n
+    Orang yang berbakti akan mendapatkan anak yang berbakti pula, anak yang berbakti pastilah bijaksana dan berbudi.\n
+    Bakti merupakan langkah pertama dalam norma kemanusiaan, seseorang yang berbakti, kelak setelah meninggal akan menjadi dewa.\n
+    Sejak dahulu kala pejabat-pejabat yang setia merupakan orang yang berbakti, raja memilih pejabat yang bijaksana atas dasar bakti dan kejujuran.\n
+    Setulus hati berbakti pada orangtua, berbakti tidak terletak pada masalah sandang dan pangan.\n
+    Bakti yang termulia adalah bakti yang berasal dari lubuk hati, berbakti pada orangtua, sekalipun dimarahi tetap tidak membantah.\n
+    Sayangnya manusia di dunia tidak mengenal bakti, kembalilah melaksanakan bakti sesuai dengan suara hati nurani.\n
+    Segala sesuatu tidak lancar karena tidak berbakti, tak tahunya bakti dapat mengharukan Tuhan.\n
+    Tidak ada cara lain untuk berbakti pada orangtua selain bersikap patuh, bakti tidak membedakan pria dan wanita.\n
+    Rezeki dan kemakmuran yang diperoleh semuanya berasal dari bakti, Tuhan memperlakukan orang yang berbakti secara istimewa.\n
+    Setiap orang dapat berbakti pada orangtuanya, berbakti dan menghormati orangtua ibarat menghormati Tuhan.\n
+    Anak lelaki yang berbakti akan kelihatan dari tutur katanya, menantu perempuan yang menjalankan bakti akan terpancar dari wajahnya.\n
+    Apabila dapat berbakti kepada mertua, selain dipuji sebagai seorang yang berbakti, juga dinilai sebagai seorang yang berbudi luhur.\n
+    Untuk mendapatkan nama baik, wanita terlebih dahulu harus belajar berbakti, bahkan di dalam “3 panutan dan 4 budi kewanitaan”, bakti juga menempati tempat pertama.\n
+    Berbakti dalam masyarakat akan dihormati orang, berbakti dalam keluarga seisi keluarga akan bahagia.\n
+    Anak yang berbakti akan selalu mendorong orang lain untuk menjalankan bakti, bakti merubah adat istiadat dan moral manusia menjadi baik.\n
+    Semasa hidupnya orang berbakti akan mempunyai nama yang harum, sesudah meninggal perbuatannya akan dikenang orang selamanya.\n
+    Dalam menangani dan menyelesaikan masalah, bakti memberikan kekuatan yang besar, bakti dapat mengharukan langit dan bumi.\n
+    Kitab dan sastra bakti mengajarkan manusia untuk berbakti, berbakti kepada orangtua dan leluhur.\n
+    Orangtua melahirkan anak juga merupakan bentuk bakti, dapat berbakti merupakan orang yang baik.\n
+    Apabila orang dapat berbakti kepada orangtuanya, kelak anak cucunya juga akan berbakti kepadanya.\n
+    Jika tidak tahu berbakti pada orangtua, kelak sengsara janganlah menyalahkan Tuhan.\n
+    Seorang anak yang berbakti akan mempunyai wajah yang penuh kedamaian, bila dapat berbakti dan rukun dengan saudara-saudara, dengan sendirinya akan selalu berada dalam keadaan selamat.\n
+    Semasa orangtua masih hidup, yang seharusnya berbakti tetapi tidak dilaksanakan, setelah orangtua meninggal baru hendak berbakti, menyesal pun sudah tiada berguna.\n
+    Berbakti harus dari lubuk hati, bukan hanya penampilan luar saja, berbakti harus dijalankan bukan hanya di mulut saja.\n
+    Orang yang berbakti memimpin keluarga, sekeluarga akan bahagia, orang yang berbakti mengatur negara, seluruh rakyat akan aman sentosa.\n
+    Kemakmuran berasal dari bakti, dengan adanya bakti maka terbentuklah kedamaian.\n
+    Melaksanakan bakti tidak membedakan kaya dan miskin, yang bisa memahami isi hati orangtua dengan baik adalah orang yang berbakti.\n
+    Sesama saudara bisa rukun dan akur merupakan wujud dari bakti, dengan sikap bersabar dan mengalah maka sempurnalah baktinya.\n
+    Dapat berbakti dalam keadaan sulit barulah kelihatan bakti yang sesungguhnya, dengan wajah yang berbakti menggembirakan orangtua.\n
+    Selagi kedua orangtua hidup kita wajib berbakti, anak yang berbakti harus mengerti kesepian yang dirasakan orangtuanya yang menjanda / menduda.\n
+    Cepatlah melaksanakan bakti karena waktu berlalu dengan cepat, berbakti adalah kewajiban kita, namun usia orangtua terletak di tangan Tuhan.\n
+    Berbakti pada saat orangtua hidup barulah merupakan bakti yang sesungguhnya, menunaikan bakti setelah orangtua meninggal sudah tidak ada artinya lagi.\n
+    Bakti merupakan pusaka yang diwariskan secara turun temurun, bakti membawa rasa damai dan kesukacitaan.\n
+    Anak kambing menyusu sambil berlutut karena tahu berbakti, burung gagak berbakti dengan merawat kembali induknya.\n
+    Sebagai manusia jika tidak tahu berbakti, masih kalah dibandingkan dengan binatang, suatu hal yang sangat menyedihkan.\n
+    Sebanyak apapun perbuatan baik yang kita lakukan, bakti adalah yang paling utama, ketahuilah bahwa bakti adalah sumber dari segala perbuatan baik.\n
+    Menyembah Buddha dan melakukan perbuatan baik juga termasuk bakti, bakti dengan mengandalkan kekuatan Tuhan akan dapat mencapai surga.\n
+    Bakti amatlah luhur dan mulia, kemuliaannya tiada terhingga dan tiada terbatas.\n
+    Pada syair di atas setiap kalimat tidak lepas dari kata “Bakti”, jika terpisah dari bakti maka norma kemanusiaan pun menjadi kacau.\n
+    Membaca sepuluh kali syair ini akan tercakup ribuan bakti, membaca seratus kali syair ini maka lengkaplah bakti tersebut.\n
+    Sering-seringlah membaca syair ini, syair “Ratusan Bakti” ini dapat menghilangkan bencana dan membuat kita terhindar dari musibah.</string>
+</resources>
